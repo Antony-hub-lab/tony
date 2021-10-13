@@ -1,0 +1,22 @@
+public class Main {
+ public static void main (String []args){
+ System.out.println ("hello world");
+}
+}
+
+
+ Main2.java public class {
+ public static void main (String []args){
+ int myNum;
+ myNum=15;
+  System.out.println (15);
+  }
+  }
+  
+public class Main {
+ public static void main (String []args){
+ float myfloatNum;
+ myfloatNum=20.3f;
+ System.out.println(myfloatNum);
+ }
+ }
